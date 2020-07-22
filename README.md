@@ -1,16 +1,15 @@
-### Hi there 👋
+<a href="https://www.youtube.com/watch?v=TV1767i8X4Q">
+  <img src="https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" alt="interstellar" align="right" height="280px">
+</a>
 
-<!--
-**itzAlex/itzAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CASE:**  
+Endurance rotation is 67, 68 RPM.
 
-Here are some ideas to get you started:
+**Cooper:**  
+CASE, get ready to match our spin with the retro thrusters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**CASE:**  
+It's not possible.
+
+**Cooper:**  
+No. It's necessary.
