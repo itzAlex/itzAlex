@@ -2,14 +2,14 @@
   <img src="https://i.giphy.com/media/hX1DSaHgxkYog/giphy.webp" alt="interstellar" align="right" height="250px">
 </a>
 
-**CASE:**  
-Endurance rotation is 67, 68 RPM.
+**Amelia Brand:**  
+Cooper, what are you doing?!
 
 **Cooper:**  
-CASE, get ready to match our spin with the retro thrusters.
+Docking.
 
 **CASE:**  
 It's not possible.
 
 **Cooper:**  
-No. It's necessary.
+No, it's necessary.
